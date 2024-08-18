@@ -4,6 +4,6 @@ I'm a fourth-year student at the Birla Institute of Technology and Science, Pila
 
 I would like to commit to research and academia as a professional career. I hope to be getting started on a PhD soon after I graduate. I'm interested in STEM in general, and that means everything from Astronomy to Biophysics, Chemistry and Chemical Engineering to Pharmacology.
 
-On this website you can find my CV, a few pre-prints I've co-authored, and some projects I've worked on. Thanks for visiting!
+On this website you can find my [CV](https://adityahiyer.github.io/CV), a few pre-prints I've co-authored, and some projects I've worked on. Thanks for visiting!
 
 Currently based in Chennai, India.
