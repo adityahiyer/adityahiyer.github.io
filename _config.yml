@@ -1,4 +1,5 @@
 name: Iyer's Website
 theme: jekyll-theme-cayman
 description: When PhD, I Wonder
-favicon: /favicon.ico
+include:
+  - _includes/head.html
