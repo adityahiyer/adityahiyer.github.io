@@ -1,6 +1,7 @@
 name: Iyer's Website
-theme: jekyll-theme-minimalistic
+theme: jekyll-theme-cayman
 description: When PhD, I Wonder
+favicon: /favicon.ico
 navigation:
   - name: Home
   link: ./index.html
