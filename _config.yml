@@ -1,6 +1,7 @@
 name: Helloworld
 title: Iyer's Website
-theme: lanyon
+theme: jekyll-theme-lanyon
+remote_theme: poole/lanyon
 version: false
 description: When PhD, I Wonder
 include:
