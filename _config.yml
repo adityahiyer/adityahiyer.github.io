@@ -1,5 +1,6 @@
 name: Iyer's Website
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+version: false
 description: When PhD, I Wonder
 include:
   - _includes/head.html
