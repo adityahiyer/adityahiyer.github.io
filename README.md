@@ -1,9 +1,3 @@
----
-id: Home Page
-title: Iyer's Website
-auto_title: false
----
-
 # Iyer's Website
 
 Hello! I'm Aditya H Iyer.
