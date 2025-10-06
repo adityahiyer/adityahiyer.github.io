@@ -1,6 +1,6 @@
 name: Helloworld
 title: Iyer's Website
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+theme: lanyon
 version: false
 description: When PhD, I Wonder
 include:
