@@ -3,6 +3,32 @@
 
 @import "jekyll-theme-cayman";
 
+.navbar {
+  display: flex;
+  justify-content: center; /* center the buttons */
+  margin: 1rem 0;
+  background-color: #f0f0f0; /* example background */
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+.nav-list {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.nav-list li {
+  margin: 0 1rem;
+}
+.nav-list li a {
+  text-decoration: none;
+  color: #0366d6;
+  font-weight: 600;
+}
+.nav-list li a:hover {
+  text-decoration: underline;
+}
+
 .site-footer-credits {
   display: none;
 }
