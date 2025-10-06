@@ -1,3 +1,7 @@
+---
+title: Home Page
+---
+
 Hello! I'm Aditya H Iyer.
 
 I'm an R&D intern at Lincoln Electric. I graduated from BITS Pilani in July 2025 with a B.E., majoring in Chemical Engineering and minoring in Physics.  
