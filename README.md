@@ -1,9 +1,13 @@
 Hello! I'm Aditya H Iyer.
 
-I'm a fourth-year student at the Birla Institute of Technology and Science, Pilani. I'm working towards a major in Chemical Engineering and a minor in Physics. 
+I'm an R&D intern at Lincoln Electric. I graduated from BITS Pilani in July 2025 with a B.E., majoring in Chemical Engineering and minoring in Physics.  
 
-I would like to commit to research and academia as a professional career. I hope to be getting started on a PhD soon after I graduate. I'm interested in STEM in general, and that means everything from Astronomy to Biophysics, Chemistry and Chemical Engineering to Pharmacology.
+I'm interested in all kinds of research in general, but particularly in chemical and nuclear science and engineering. In my free time I play around with open-source programs and applications in these areas — something I've been doing since my undergraduate days. It follows that my research experience is mostly computational.
 
-On this website you can view or download my [CV](https://adityahiyer.github.io/Resume_1.pdf), a few pre-prints I've co-authored, and some projects I've worked on. Thanks for visiting!
+I would like to commit to research and academia as a professional career. I'm hoping to go back to school sometime in the future, and get master's and doctoral degrees.
 
-Currently based in Chennai, India.
+Outside of scientific and academic pursuits, I like quizzing and trivia. I'm also keeping myself busy learning Kannada and French.
+
+On this website you can view or download my [CV](https://adityahiyer.github.io/Resume_1.pdf), a few pre-prints I've co-authored, and some projects I've worked on. I also like to write about cricket and metros. Thanks for visiting!
+
+Currently based in Chennai, India. Relocating soon to Bengaluru, India.
