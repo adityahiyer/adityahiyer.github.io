@@ -1,6 +1,6 @@
 name: Helloworld
 title: Iyer's Website
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 version: false
 description: When PhD, I Wonder
 include:
