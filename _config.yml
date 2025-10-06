@@ -1,3 +1,10 @@
 name: Iyer's Website
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimalistic
 description: When PhD, I Wonder
+navigation:
+  - name: Home
+  link: ./index.html
+  - name: About
+  link: ./about.html
+  - name: Blog
+  link: ./blog.html
