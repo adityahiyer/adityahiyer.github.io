@@ -1,9 +1,6 @@
 name: Iyer's Website
 theme: jekyll-theme-minimalistic
 description: When PhD, I Wonder
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 navigation:
   - name: Home
   link: ./index.html
