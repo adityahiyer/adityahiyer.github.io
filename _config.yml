@@ -9,3 +9,5 @@ include:
 sidebar:
   - home
   - my-cv
+plugins:
+  - jekyll-remote-theme
