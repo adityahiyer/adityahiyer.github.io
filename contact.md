@@ -1,4 +1,4 @@
-The easiest way to contact me is to send me an [email](adityahiyer@gmail.com). 
+The easiest way to contact me is to send me an [email](mailto:adityahiyer@gmail.com). 
 
 If you'd like to connect on LinkedIn, or just take a look at my profile, [here it is](https://www.linkedin.com/in/aditya-h-iyer).
 
