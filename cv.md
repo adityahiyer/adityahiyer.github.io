@@ -11,3 +11,5 @@ Education
 > + National Public School International, Chennai
 > + Physics, Chemistry, Mathematics, Biology, English
 > + Score: 98.2%
+
+![Markdown Logo](https://www.markdownlang.com/markdown-logo.png)
